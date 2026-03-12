@@ -1,0 +1,10 @@
+{
+  "name": "azure-timer",
+  "version": "1.0.0",
+  "description": "Funcao Azure",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {}
+}
